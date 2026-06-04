@@ -304,8 +304,14 @@ The model demonstrates that machine learning can be successfully applied for pra
 
 ### 👨‍💻 Author
 
-Yaswanth Reddy M.
-
-B.Tech – Electronics and Communication Engineering
+Yaswanth Reddy 
 
 Machine Learning | Data Science
+
+Aspiring Machine Learning Engineer with interests in Cybersecurity, Data Science, Artificial Intelligence, and Network Security.
+
+This project was developed as part of research initiative focused on applying Machine Learning techniques for Network Intrusion Detection using the UNSW-NB15 cybersecurity dataset.
+
+### 📜 License
+
+This project is licensed under the MIT License.
