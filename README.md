@@ -188,6 +188,7 @@ The complete architecture consists of:
 ### Architecture Diagram
 
 The following diagram illustrates the complete workflow of the proposed Intrusion Detection System.
+![Architecture](Images/Architecture_Diagram.png)
 
 ### 🤖 Model Details
 
