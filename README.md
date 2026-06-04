@@ -256,9 +256,9 @@ UNSW_NB15_KNN_IDS_Pipeline_v1.pkl
 
 ### ⚙️ Installation
 
-git clone https://github.com/yourusername/UNSW-NB15-KNN-IDS.git
+git clone https://github.com/yaswanth1523/ML-KNN-Based-Network-Intrusion-Detection-System.git
 
-cd UNSW-NB15-KNN-IDS
+cd ML-KNN-Based-Network-Intrusion-Detection-System
 
 pip install -r requirements.txt
 
