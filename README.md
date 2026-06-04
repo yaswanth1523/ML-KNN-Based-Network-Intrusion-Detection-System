@@ -254,6 +254,14 @@ Output File:
 
 UNSW_NB15_KNN_IDS_Pipeline_v1.pkl
 
+### ⚙️ Installation
+
+git clone https://github.com/yourusername/UNSW-NB15-KNN-IDS.git
+
+cd UNSW-NB15-KNN-IDS
+
+pip install -r requirements.txt
+
 ### 📈 Results and Discussion
 
 The developed KNN-based Intrusion Detection System achieved high overall classification performance while maintaining strong detection capability for attack traffic.
