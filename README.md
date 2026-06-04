@@ -185,6 +185,10 @@ The complete architecture consists of:
 18. Prediction Dashboard Layer
 19. Final Output Layer
 
+### Architecture Diagram
+
+The following diagram illustrates the complete workflow of the proposed Intrusion Detection System.
+
 ### 🤖 Model Details
 
 **Algorithm**
